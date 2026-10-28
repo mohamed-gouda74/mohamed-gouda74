@@ -1,27 +1,20 @@
 # 👋 Hi, I'm Mohamed Gouda Abdelazim
 
-### 📊 Data Analyst | Excel, Python, SQL & Power BI | Cairo, Egypt
+### 📊 Data Analyst | Cairo, Egypt
 
-I'm a Data Analyst based in Cairo, Egypt. I work with Excel, Python, SQL, and Power BI to turn raw data into clear insights through cleaning, analysis, and dashboards.
+I turn raw data into clear, actionable insights. Data Analyst with a Business Information Systems background, building interactive dashboards and analysis in Excel, Python, SQL, and Power BI.
 
 ---
 
 # 💫 About Me:
+🔭 I'm currently working as a Data Analyst intern at Instant Software Solutions, building dashboards and cleaning data<br>🌱 I'm currently learning advanced SQL and databases<br>💬 Ask me about Excel, Power BI, Python, and data cleaning
 
-📍 Based in Cairo, Egypt<br>
-📊 Working as a Data Analyst<br>
-🛠️ I work with Excel, Python, SQL, and Power BI<br>
-💬 Ask me about data cleaning, analysis, and building dashboards
+🎯 **Open to Data Analyst opportunities.**
 
 ---
 
-# 💻 Tech Stack:
-
-**Data Analysis & BI**<br>
-![Excel](https://img.shields.io/badge/Excel-0F766E?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-0F766E?style=flat-square)
-
-**Programming & Databases**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-0369A1?style=flat-square)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gouda-b77a9331b/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goodam2002@gmail.com)
 
 ---
 
@@ -31,25 +24,42 @@ I'm a Data Analyst based in Cairo, Egypt. I work with Excel, Python, SQL, and Po
 
 ---
 
-## 🏢 Experience
+# 💻 Tech Stack:
+
+**Programming**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square)
+
+**Data Analysis & BI**<br>
+![Power BI](https://img.shields.io/badge/Power_BI-0F766E?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-0F766E?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-0F766E?style=flat-square) ![Power Pivot](https://img.shields.io/badge/Power_Pivot-0F766E?style=flat-square) ![PivotTables](https://img.shields.io/badge/PivotTables-0F766E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-0F766E?style=flat-square)
+
+**Visualization**<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-7C3AED?style=flat-square)
+
+---
+
+# 📁 Featured Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| **HR Workforce Insights Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard covering headcount by department, country, and region, gender trends from 2016 to 2020, and overtime, sick leave, and unpaid leave |
+| **Sales Performance Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive 2014–2017 dashboard showing sales and profit by category, region, segment, and year, top subcategories, and profit by ship mode |
+| **Supply Chain & Logistics Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard tracking revenue, profit, cost, and margin, order status and shipping cost, profitability by warehouse and country, and top suppliers by revenue, with a short supplier risk insight |
+| **Mercedes-Benz Cars Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | Interactive Plotly dashboard tracking total price (~135.5M), average mileage (~81K km), and average owners (2), with charts for average price by year, total price by model, price vs. mileage, fuel type share, and horsepower distribution |
+| **Spotify Data Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | 10,000-track dataset (25 artists, 12 genres, 12 languages, ~471.6B total streams) with an interactive HTML dashboard covering top artists, yearly trends, genre popularity, explicit vs. clean tracks, album types, and streams by language |
+| **Carrefour Sales Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | ~10,000 transactions (4.91M EGP in sales, 490.58 EGP average order value, 40,102 items sold) with an 11-chart interactive HTML dashboard covering stores, categories, customers, supermarket vs. hypermarket share, and yearly, monthly, and weekday sales |
+| **Superstore Sales Analysis** | Python, Pandas | Cleaning, EDA, and KPIs ($2.30M sales, $286.4K profit, 12.47% margin, $458.61 average sales per order), plus analysis of sales, profit, discounts, products, and customers with business recommendations |
+| **Egypt House Prices Analysis** | Python, Pandas | Feature engineering (price per square meter, property age, total rooms, bathrooms-to-rooms ratio, combined governorate and region) and EDA, including the top 10 regions by average price and top 10 locations by median price |
+| **Cafe Data Cleaning** | Python, Pandas | Cleaned and prepared a cafe dataset for analysis |
+| **Mobiles & Laptops Sales Analysis** | Python, Pandas | Analyzed mobile and laptop sales data |
+
+---
+
+# 🏢 Experience
 
 | Role | Organization | Period |
 |---|---|---|
 | **Data Analyst (Internship)** | Instant Software Solutions | Jul 2025 – Present |
 
-- Created interactive data dashboards and performed data cleaning
-- Focus areas: Sales Analysis, KPI Tracking
+- Created interactive data dashboards and performed data cleaning, with a focus on Sales Analysis and KPI Tracking
 
 ---
-
-<!--
-TODO: add these sections once you send the details
-
-## 📁 Featured Projects
-| Project | Stack | Impact |
-|---|---|---|
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email)
--->
