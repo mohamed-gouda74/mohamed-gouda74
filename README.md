@@ -27,20 +27,43 @@ I turn raw data into clear, actionable insights. Data Analyst with a Business In
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack & Technical Skills:
 
-**Programming**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=flat-square)
+## 📊 Data Analysis & Spreadsheet Tools
 
-**Data Analysis & BI**<br>
-![Power BI](https://img.shields.io/badge/Power_BI-0F766E?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-0F766E?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-0F766E?style=flat-square) ![Power Pivot](https://img.shields.io/badge/Power_Pivot-0F766E?style=flat-square) ![PivotTables](https://img.shields.io/badge/PivotTables-0F766E?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-0F766E?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-0F766E?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-0F766E?style=for-the-badge&logo=microsoft&logoColor=white) ![Power Pivot](https://img.shields.io/badge/Power_Pivot-0F766E?style=for-the-badge&logo=microsoft&logoColor=white) ![PivotTables](https://img.shields.io/badge/PivotTables-0F766E?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Visualization**<br>
-![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-7C3AED?style=flat-square)
+*   PivotTables and Lookup Functions
+*   Data Cleaning and Organization
+*   Interactive Excel Dashboards
+
+## 🐍 Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=looker&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-0F766E?style=for-the-badge&logo=pandas&logoColor=white)
+
+*   Data Cleaning and Preprocessing
+*   Exploratory Data Analysis (EDA)
+*   Data Analysis and Insight Generation
+
+## 📊 Data Visualization & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-0F766E?style=for-the-badge&logo=powerbi&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-7C3AED?style=for-the-badge&logo=plotly&logoColor=white)
+
+*   Data Visualization
+*   Interactive Dashboards
+*   HTML Dashboard Export
 
 ---
 
 # 📁 Featured Projects
+
+## 📊 Excel Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| **[HR Workforce Insights Dashboard](https://github.com/mohamed-gouda74/HR_Project_Dashboard)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard covering headcount by department, country, and region, gender trends from 2016 to 2020, and overtime, sick leave, and unpaid leave |
+| **[Sales Performance Dashboard](https://github.com/mohamed-gouda74/Sales-dataset)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive 2014–2017 dashboard showing sales and profit by category, region, segment, and year, top subcategories, and profit by ship mode |
+| **[Supply Chain & Logistics Dashboard](https://github.com/mohamed-gouda74/Supply_Chain_Analytics)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard tracking revenue, profit, cost, and margin, order status and shipping cost, profitability by warehouse and country, and top suppliers by revenue, with a short supplier risk insight |
 
 ## 🐍 Python Projects
 
@@ -52,14 +75,6 @@ I turn raw data into clear, actionable insights. Data Analyst with a Business In
 | **[Superstore Sales Analysis](https://github.com/mohamed-gouda74/Superstore-Sales-Analysis)** | Python, Pandas | Cleaning, EDA, and KPIs ($2.30M sales, $286.4K profit, 12.47% margin, $458.61 average sales per order), plus analysis of sales, profit, discounts, products, and customers with business recommendations |
 | **[Egypt House Prices Analysis](https://github.com/mohamed-gouda74/House-Price)** | Python, Pandas | Feature engineering (price per square meter, property age, total rooms, bathrooms-to-rooms ratio, combined governorate and region) and EDA, including the top 10 regions by average price and top 10 locations by median price |
 | **[Mobiles & Laptops Sales Analysis](https://github.com/mohamed-gouda74/Mobiles-Laptop-sales-data)** | Python, Pandas | Analyzed mobile and laptop sales data |
-
-## 📊 Excel Projects
-
-| Project | Stack | Impact |
-|---|---|---|
-| **[HR Workforce Insights Dashboard](https://github.com/mohamed-gouda74/HR_Project_Dashboard)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard covering headcount by department, country, and region, gender trends from 2016 to 2020, and overtime, sick leave, and unpaid leave |
-| **[Sales Performance Dashboard](https://github.com/mohamed-gouda74/Sales-dataset)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive 2014–2017 dashboard showing sales and profit by category, region, segment, and year, top subcategories, and profit by ship mode |
-| **[Supply Chain & Logistics Dashboard](https://github.com/mohamed-gouda74/Supply_Chain_Analytics)** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard tracking revenue, profit, cost, and margin, order status and shipping cost, profitability by warehouse and country, and top suppliers by revenue, with a short supplier risk insight |
 
 ---
 
