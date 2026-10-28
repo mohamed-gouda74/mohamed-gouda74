@@ -39,17 +39,23 @@ I turn raw data into clear, actionable insights. Data Analyst with a Business In
 
 # 📁 Featured Projects
 
+## 📊 Excel Projects
+
 | Project | Stack | Impact |
 |---|---|---|
 | **HR Workforce Insights Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard covering headcount by department, country, and region, gender trends from 2016 to 2020, and overtime, sick leave, and unpaid leave |
 | **Sales Performance Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive 2014–2017 dashboard showing sales and profit by category, region, segment, and year, top subcategories, and profit by ship mode |
 | **Supply Chain & Logistics Dashboard** | Excel, Power Query, PivotTables, Charts, Slicers | Interactive dashboard tracking revenue, profit, cost, and margin, order status and shipping cost, profitability by warehouse and country, and top suppliers by revenue, with a short supplier risk insight |
+
+## 🐍 Python Projects
+
+| Project | Stack | Impact |
+|---|---|---|
 | **Mercedes-Benz Cars Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | Interactive Plotly dashboard tracking total price (~135.5M), average mileage (~81K km), and average owners (2), with charts for average price by year, total price by model, price vs. mileage, fuel type share, and horsepower distribution |
 | **Spotify Data Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | 10,000-track dataset (25 artists, 12 genres, 12 languages, ~471.6B total streams) with an interactive HTML dashboard covering top artists, yearly trends, genre popularity, explicit vs. clean tracks, album types, and streams by language |
 | **Carrefour Sales Analysis** | Python, Pandas, Matplotlib, Seaborn, Plotly | ~10,000 transactions (4.91M EGP in sales, 490.58 EGP average order value, 40,102 items sold) with an 11-chart interactive HTML dashboard covering stores, categories, customers, supermarket vs. hypermarket share, and yearly, monthly, and weekday sales |
 | **Superstore Sales Analysis** | Python, Pandas | Cleaning, EDA, and KPIs ($2.30M sales, $286.4K profit, 12.47% margin, $458.61 average sales per order), plus analysis of sales, profit, discounts, products, and customers with business recommendations |
 | **Egypt House Prices Analysis** | Python, Pandas | Feature engineering (price per square meter, property age, total rooms, bathrooms-to-rooms ratio, combined governorate and region) and EDA, including the top 10 regions by average price and top 10 locations by median price |
-| **Cafe Data Cleaning** | Python, Pandas | Cleaned and prepared a cafe dataset for analysis |
 | **Mobiles & Laptops Sales Analysis** | Python, Pandas | Analyzed mobile and laptop sales data |
 
 ---
