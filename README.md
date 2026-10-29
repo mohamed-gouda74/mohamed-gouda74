@@ -2,13 +2,13 @@
 
 ### 📊 Aspiring Data Analyst | Cairo, Egypt
 
-I enjoy turning raw data into clear, actionable insights. With a background in Business Information Systems, I work on data analysis, cleaning, visualization, and interactive dashboard development using Excel and Python, while continuing to develop my SQL and Power BI skills.
+I enjoy turning raw data into clear, actionable insights. With a background in Business Information Systems, I work on data analysis, data cleaning, visualization, and interactive dashboard development using Excel and Python, while continuing to develop my SQL and Power BI skills.
 
 ---
 
 # 💫 About Me
 
-🔭 Building data analysis projects and interactive dashboards using Excel and Python  
+🔭 Building practical data analysis projects and interactive dashboards using Excel and Python  
 🌱 Currently developing my skills in SQL, databases, and business intelligence  
 💬 Ask me about Excel, Python, Pandas, data cleaning, EDA, and data visualization  
 
@@ -21,9 +21,9 @@ I enjoy turning raw data into clear, actionable insights. With a background in B
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gouda-b77a9331b/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/mohammedgooda22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mohamed-gouda74)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goodam2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=goodam2002@gmail.com)
 
-📧 **Email:** [goodam2002@gmail.com](mailto:goodam2002@gmail.com)  
+📧 **Email:** [goodam2002@gmail.com](https://mail.google.com/mail/?view=cm&to=goodam2002@gmail.com)  
 📍 **Location:** Cairo, Egypt
 
 ---
@@ -31,7 +31,8 @@ I enjoy turning raw data into clear, actionable insights. With a background in B
 ## 🎓 Education
 
 **Bachelor's Degree in Business Information Systems**  
-ElGazeera Higher Academy for Information Systems
+ElGazeera Higher Academy for Information Systems  
+**2022 – 2026**
 
 ---
 
@@ -97,15 +98,18 @@ ElGazeera Higher Academy for Information Systems
 
 ---
 
-# 🏢 Experience
+# 📚 Training & Courses
 
-| Role | Organization | Period |
-|---|---|---|
-| **Data Analyst Intern** | Instant Software Solutions | Jul 2025 – Present |
+- **Data Analysis Course** — INSTANT for Software Solutions | July 2026 – Present
+- **English Language Course** — Gateway Academy | 2024 – 2025
+- **Digital Marketing Course** — Swiss Skillz | 2024
 
-- Worked on data cleaning and preparation to improve data quality and consistency.
-- Developed interactive dashboards to present key performance indicators and business insights.
-- Analyzed sales data and tracked KPIs to support data-driven decision-making.
+---
+
+# 🌍 Languages
+
+- **Arabic:** Native
+- **English:** Intermediate (B1)
 
 ---
 
