@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Gouda Abdelazim
 
-### 📊 Aspiring Data Analyst | Cairo, Egypt
+### 📊 Data Analyst | Cairo, Egypt
 
 I enjoy turning raw data into clear, actionable insights. With a background in Business Information Systems, I work on data analysis, data cleaning, visualization, and interactive dashboard development using Excel and Python, while continuing to develop my SQL and Power BI skills.
 
